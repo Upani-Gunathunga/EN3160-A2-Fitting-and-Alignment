@@ -1,0 +1,7 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+results/*
+!results/q3_points.npz
+a2images.zip
+en3160_assignment_02.pdf
